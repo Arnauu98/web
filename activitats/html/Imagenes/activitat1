@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cafeteria</h1>
+    <p>>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt, tempora modi quis iusto reiciendis consectetur accusamus. Quia, culpa, ratione, mollitia repellendus soluta repudiandae vitae eius voluptatibus in impedit similique quo.</p>
+    <h3>Dueño</h3>
+    <img src="https://s1.ppllstatics.com/lasprovincias/www/multimedia/202112/12/media/cortadas/gatos-kb2-U160232243326NVC-1248x770@Las%20Provincias.jpg" alt="gato"height="50"width="50">
+    <h3>Competencia</h3>
+    <p>>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique voluptates molestias magni consectetur doloribus nihil commodi nisi nesciunt, voluptatibus iure. Sed maxime vitae assumenda quasi delectus consectetur quia quae non?</p>
+    <img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1422023439-64f1eaf518ace.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*" alt="perro"height="50"width="50">
+</body>
+</html>
