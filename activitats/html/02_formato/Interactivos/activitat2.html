@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Buscador de Smartphones</h1>
+
+    <label for="marca">Marca:</label>
+    <input type="text" id="marca" placeholder="Escribe la marca">
+
+    <label for="precio">Precio:</label>
+    <select id="precio">
+        <option value="">Selecciona un rango de precios</option>
+        <option value="0-200">0 - 200 </option>
+        <option value="201-400">201 - 400 </option>
+        <option value="401-600">401 - 600 </option>
+    </select>
+
+    <button onclick="buscarSmartphones()">Buscar</button>
+
+    <div id="result"></div>
+</body> 
+</html>
