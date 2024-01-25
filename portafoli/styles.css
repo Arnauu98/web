@@ -16,6 +16,7 @@ body {
     height: 100vh;
     background-color: #191c32;
     color: #fff;
+    overflow: auto;
 }
 
 .brand{
@@ -67,6 +68,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2,1fr);
     align-items: center;
+    overflow: auto;
 }
 
 h1{
