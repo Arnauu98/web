@@ -100,5 +100,53 @@ span{
     width: 400px;
     border: 7px solid aqua;
     height: 520px;
+    margin-left: 20%;
 
 }
+
+.sub{
+    display: flex;
+    color: #fff;
+    text-decoration: none;
+    padding: 20px 40px;
+    width: 50%;
+    justify-content: space-around;
+    overflow: auto;
+    margin: 5% 5% 5% 5%;
+    font-size: 3em;
+}
+
+.sub:hover{
+    background-color: aqua;
+    color:  #191c32;
+    transition: ease-in .4s;
+}
+
+  .label {
+    display: block;
+    margin-top: 8px;
+    font-weight: bold;
+  }
+
+  button{
+    padding: 10px 20px;
+    background-color: aqua;
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow: 1px 3px 11px 5px;
+  }
+
+  fieldset{
+    background-color: #191c32;
+    color: #fff;
+    overflow: auto;
+    width: 100vw;
+    height: 100hw;
+    justify-content: space-between;
+  }
+  legend{
+    margin-top: 10%;
+
+  }
